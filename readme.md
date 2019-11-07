@@ -4,3 +4,5 @@ After locating the MeanWell LDB series of buck boost drivers, I decided I wanted
 
 I decided that the use of a 555 timer was appropriate. I located a circuit that enables dimming from aprox 2%~98%.
 The KiCad files are for the 555 timer PWM controller.
+
+The boards are available through OSH Park here: https://oshpark.com/shared_projects/NnH8jZtl
